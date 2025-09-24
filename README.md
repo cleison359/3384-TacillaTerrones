@@ -30,5 +30,9 @@ Estructuras Condicionales Repetitivas (For, While, Do While)
 
 
 ## Arreglos 
+Arrays Unidimensionales (Vectores)
+
+Arrays Bidimensionales (Matrices)
+
 
 Derechos reservados ®
