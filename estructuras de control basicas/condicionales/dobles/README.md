@@ -7,3 +7,5 @@
 # python
 ### Ejemplo 1: Verificar si un número es par o impar
 - Se evalúa si el número es divisible entre 2. Si lo es, se imprime que es par; si no, se indica que es impar. Esto es un condicional doble porque hay dos posibles caminos: uno si la condición es verdadera y otro si es falsa.
+### Ejemplo 2: Comprobar si una persona aprobó o reprobó
+- Aquí se revisa si la nota es suficiente para aprobar (6.0 o más). Si se cumple, muestra que aprobó; si no, muestra que reprobó. Como hay una acción para cada caso, es una estructura if-else o condicional doble.
