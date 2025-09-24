@@ -7,3 +7,5 @@
 # python
 ### Ejemplo 1: Verificar si una persona es mayor de edad
 - Este es un condicional simple. Se evalúa si la edad es mayor o igual a 18. Si la condición se cumple, se muestra el mensaje. Si no, no pasa nada.
+### Ejemplo 2: Comprobar si una palabra empieza con vocal
+- Aquí también hay una única condición: si la primera letra de la palabra es una vocal. Si se cumple, se ejecuta la instrucción. No hay un else, así que es un condicional simple.
