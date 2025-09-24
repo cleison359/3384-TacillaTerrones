@@ -31,5 +31,17 @@ git log --oneline # Ver historial resumido
 
 
 ## comandos de repositorio remoto
+git remote add origin [URL] # Conectar con repositorio remoto
+
+git remote -v # Ver repositorios remotos
+
+git push origin main # Subir cambios a GitHub
+
+git push -u origin main # Primer push (establecer upstream)
+
+git pull origin main # Descargar cambios de GitHub
+
+git clone [URL] # Clonar repositorio existente
+
 
 ## comandos de información
