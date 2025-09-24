@@ -7,3 +7,5 @@
 # python 
 ### Ejemplo 1: Verificar si un número es positivo, negativo o cero
 - Primero se evalúa si el número es distinto de cero. Dentro de esa condición, se anida otra para verificar si es mayor o menor que cero. Esta estructura de if dentro de otro if es una condicional anidada.
+### Ejemplo 2: Evaluar si un estudiante aprobó, y con qué nivel
+- Primero se verifica si el estudiante aprobó. Dentro de ese bloque, se hace otra evaluación para saber si su desempeño fue excelente, bueno o apenas suficiente. Este es un claro ejemplo de condicionales anidadas con varias ramas internas (if, elif, else).
