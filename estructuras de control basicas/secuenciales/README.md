@@ -7,3 +7,5 @@
 # python
 ### Ejemplo 1: Calcular el promedio de tres números
 - Este es un algoritmo secuencial porque las instrucciones se ejecutan una tras otra, sin condicionales ni bucles. Se ingresan los datos, se calcula el promedio y se muestra el resultado.
+### Ejemplo 2: Convertir grados Celsius a Fahrenheit
+- También es secuencial. El programa sigue una serie de pasos directos: toma un valor, hace una operación matemática y luego imprime el resultado. No hay decisiones ni repeticiones.
