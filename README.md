@@ -16,6 +16,18 @@ Comandos de Repositorio Remoto
 Comandos de Información
 
 ## Estructuras de control basicas 
+Estructuras Secuenciales
+
+Estructuras Condicionales Simples
+
+Estructuras Condicionales Dobles
+
+Estructuras Condicionales Multiples
+
+Estructuras Condicionales Anidadas
+
+Estructuras Condicionales Repetitivas (For, While, Do While)
+
 
 ## Arreglos 
 
