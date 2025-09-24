@@ -6,4 +6,6 @@
 ### Condicionales dobles:
 - Evaluan una condición y ejecutan una acción si es verdadera, y otra diferente si es falsa. Usan la estructura if-else, lo que permite manejar dos posibles caminos de ejecución.
 ### Condicionales múltiples:
-Permiten evaluar varias condiciones diferentes para ejecutar distintas acciones según cuál se cumpla. Se puede hacer con if-else if-else o con switch, y son útiles cuando hay más de dos opciones posibles.
+- Permiten evaluar varias condiciones diferentes para ejecutar distintas acciones según cuál se cumpla. Se puede hacer con if-else if-else o con switch, y son útiles cuando hay más de dos opciones posibles.
+### Condicionales anidadas:
+- Son estructuras condicionales dentro de otras, lo que permite tomar decisiones más complejas. Por ejemplo, una condición puede llevar a otra evaluación interna dependiendo del resultado anterior.
