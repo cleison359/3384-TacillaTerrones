@@ -1,6 +1,7 @@
-numero = 10
+nota = 4.5
 
-if numero % 2 == 0:
-    print("El número es par.")
+if nota >= 6.0:
+    print("El estudiante aprobó.")
 else:
-    print("El número es impar.")
+    print("El estudiante reprobó.")
+
